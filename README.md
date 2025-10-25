@@ -7,10 +7,8 @@ A **Referral Dashboard** for users built with **Vue 3**, **Pinia**, **Tailwind C
 ## ⚡ Tech Stack
 
 - **Vue 3** (Composition API)  
-- **Pinia** (State management)  
 - **Tailwind CSS v3** (Dark mode supported)  
-- **Vite** (Build tool)  
-- **TypeScript** (Optional/Recommended)  
+- **Vite** (Build tool) 
 - **No UI libraries** (icons only)  
 
 ---
