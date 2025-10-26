@@ -4,13 +4,13 @@
     <Sidebar />
 
     <!-- Main Content -->
-    <main class="flex-1 p-6">
+    <main class="flex-1 p-0 lg:p-6 md:p-4">
       <div class="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 min-h-full">
         <!-- Top Bar -->
         <TopBar />
 
         <!-- Content Body -->
-        <div class="p-8 space-y-6">
+        <div class="p-4 lg:p-8 md:p-6 space-y-6">
           <!-- Referral Section -->
           <ReferralSection />
 
